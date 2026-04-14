@@ -1,6 +1,6 @@
 # Olá, eu sou a Cunha! 👋
 
-### 👨‍💻 Desenvolvedor Front-End em Ascensão
+### 👨‍💻 Desenvolvedora Front-End em Ascensão
 Unindo criatividade e lógica para desenvolver interfaces elegantes e funcionais. Atualmente focado em dominar o ecossistema JavaScript e criar experiências incríveis para o usuário.
 
 ---
